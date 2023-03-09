@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .wrapper {
@@ -10,4 +11,13 @@
 
 .wrapper ul {
     align-self: flex-start;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
 }
