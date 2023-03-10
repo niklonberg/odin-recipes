@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    font-family: Verdana, Tahoma, sans-serif;
 }
 
 body {
     display: flex;
     justify-content: center;
+    font-family: "Open Sans", Verdana, Tahoma, sans-serif;
 }
 
 .wrapper {
